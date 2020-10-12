@@ -3,4 +3,4 @@ just another repository
 
 Hi Humans!
 I am Rindra.
-U am from Madagascar
+I am from Madagascar
